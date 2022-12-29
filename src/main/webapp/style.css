@@ -1,0 +1,44 @@
+body{
+    background-color:#212121;
+    color:white;
+}
+header{
+    width:500px;
+}
+#questForm{
+    width:300px;
+}
+textarea{
+    height: 100px;
+}
+input,textarea{
+    width:150px;
+    font-size:16px;
+}
+button{
+    height:25px;
+    width:75px;
+    font-size:16px;
+    background-color:#512da8;
+    border: 0;
+    color:white;
+}
+
+#questForm,header{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.test{
+    border:3px solid white;
+    width:50%;
+    height:100px;
+    font-size:12px;
+    padding:10px;
+}
+#noteDisplay{
+    padding:10px;
+}
+.date{
+    text-align:right;
+}
